@@ -16,7 +16,7 @@ cadastro = {}
 lista = []
 #Programa principal
 while True:
-    inicio = ('*' * 20 + 'Menu' + '*' * 20)
+    inicio = ('*' * 22 + 'Menu' + '*' * 22)
     print(inicio)
     print('1 - Nova inscrição')
     print('2 - Visualizar inscrição')
